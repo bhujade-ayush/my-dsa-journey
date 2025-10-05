@@ -27,7 +27,7 @@ This repository tracks my progress and learnings as I prepare for interviews and
 
 ## Stats
 ### Leetcode
-![Leetcode Stats](https://leetcode-badge-sage.vercel.app/badge/bhujade_ayush?theme=light)
+![Leetcode Stats](https://leetcode-stats.vercel.app/badge/bhujade_ayush?theme=light)
 <br>
 ### Github Activities
 ![GitHub Commit Activities](https://img.shields.io/github/commit-activity/m/bhujade-ayush/my-dsa-journey)
