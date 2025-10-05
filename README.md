@@ -26,7 +26,7 @@ This repository tracks my progress and learnings as I prepare for interviews and
 
 ## Stats
 ### Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/bhujade_ayush)
+![Leetcode Stats](https://leetcard.jacoblin.cool/bhujade_ayush?theme=dark&font=Karma&ext=contest)
 <br>
 ### Github Activities
 ![GitHub Commit Activities](https://img.shields.io/github/commit-activity/m/bhujade-ayush/my-dsa-journey)
