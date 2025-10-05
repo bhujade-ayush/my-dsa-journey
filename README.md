@@ -36,4 +36,4 @@ This repository tracks my progress and learnings as I prepare for interviews and
 
 ## Badges
 ### Leetcode
-![Leetcode Badges](https://leetcode-badge-showcase.vercel.app/api?username=bhujade_ayush)
+![Leetcode Badges](https://leetcode-badge-showcase.vercel.app/api?username=bhujade_ayush&theme=Dark)
