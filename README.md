@@ -42,4 +42,4 @@ This repository tracks my progress and learnings as I prepare for interviews and
 ### Leetcode
 ![Leetcode Rating](https://leetcard.jacoblin.cool/bhujade_ayush?ext=contest)
 ### CodeChef
-[![CodeChef Rating](https://competeapi.vercel.app/user/codeforces/bhujade_ayush)](https://www.codechef.com/users/bhujade_ayush)
+[![CodeChef Rating](https://competeapi.vercel.app/user/leetcode/bhujade_ayush)](https://www.codechef.com/users/bhujade_ayush)
