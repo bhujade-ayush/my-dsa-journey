@@ -3,7 +3,7 @@ Welcome to my DSA learning repo!
 This repository tracks my progress and learnings as I prepare for interviews and competitive programming.
 
 ## Topics Covered
-- [ ] Arrays
+- [x] Arrays
 - [ ] Binary Search
 - [ ] Strings 1 (Basic & Medium)
 - [ ] Linked Lists
