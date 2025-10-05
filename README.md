@@ -32,3 +32,7 @@ This repository tracks my progress and learnings as I prepare for interviews and
 ![GitHub Commit Activities](https://img.shields.io/github/commit-activity/m/bhujade-ayush/my-dsa-journey)
 <br>
 ![Languages](https://img.shields.io/github/languages/top/bhujade-ayush/my-dsa-journey)
+
+## Badges
+### Leetcode
+[![Leetcode Badges](https://img.shields.io/badge/Leetcode-bhujade_ayush-orange?logo=leetcode)](https://leetcode.com/u/bhujade_ayush/)
