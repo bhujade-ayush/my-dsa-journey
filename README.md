@@ -37,3 +37,7 @@ This repository tracks my progress and learnings as I prepare for interviews and
 ## Badges
 ### Leetcode
 ![Leetcode Badges](https://leetcode-badge-showcase.vercel.app/api?username=bhujade_ayush&theme=dark&animated=true)
+
+## Contest Ratings
+### Leetcode
+![Leetcode Rating](https://leetcard.jacoblin.cool/bhujade_ayush?ext=contest)
