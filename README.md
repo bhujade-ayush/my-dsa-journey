@@ -21,9 +21,9 @@ This repository tracks my progress and learnings as I prepare for interviews and
 - [ ] Strings 2
 
 ## Platforms
-[![Leetcode](https://img.shields.io/badge/Leetcode-bhujade_ayush-orange?logo=leetcode)](https://leetcode.com/u/bhujade_ayush/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-Ayush_Bhujade-orange?logo=leetcode)](https://leetcode.com/u/bhujade_ayush/)
 <br>
-[![Codeforces](https://img.shields.io/badge/Codeforces-bhujade_ayush-orange?logo=codeforces)](https://codeforces.com/profile/bhujade_ayush)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Ayush_Bhujade-blue?logo=codeforces)](https://codeforces.com/profile/bhujade_ayush)
 
 ## Stats
 ### Leetcode
