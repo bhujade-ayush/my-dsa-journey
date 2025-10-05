@@ -25,6 +25,10 @@ This repository tracks my progress and learnings as I prepare for interviews and
 - [Codeforces](https://codeforces.com/profile/bhujade_ayush)
 
 ## Stats
+### Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/bhujade_ayush)
+<br>
+### Github Activities
 ![GitHub Commit Activities](https://img.shields.io/github/commit-activity/m/bhujade-ayush/my-dsa-journey)
+<br>
 ![Languages](https://img.shields.io/github/languages/top/bhujade-ayush/my-dsa-journey)
